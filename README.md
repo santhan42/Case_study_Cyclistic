@@ -1,7 +1,7 @@
 # Case_study_Cyclistic
 Case study as part of the Google data analytics professional certificate. 
 
-#**About company**
+# About company
 
 Cyclistics (fictional company) a successful bike-share company which has a fleet of 5,824 bicycles that
 are geotracked and locked into a network of 692 stations across Chicago. 
