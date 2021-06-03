@@ -7,7 +7,7 @@ are geotracked and locked into a network of 692 stations across Chicago.
 Main objective is to analyze data given and provide insights to achieve the company’s future success by maximizing the number of annual memberships. Analyze how casual riders and annual members use "Cyclistic" bikes differently and provide data driven decisions.
 
 
-Business Task
+## Business Task
 Understand how casual riders and annual members of Cyclistic - Bike Share use Cyclistic bikes differently and come up with efficient recommendations to convert casual riders into annual members
 
 Stakeholders
