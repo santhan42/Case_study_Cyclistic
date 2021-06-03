@@ -31,4 +31,6 @@ The data has been made available by Motivate International Inc. under this link 
 
 Find my complete analysis on the case study with the insights and decisions crated using creative visualizations on this link[]
 
+[I'm an inline-style link](https://www.google.com)
+
 
