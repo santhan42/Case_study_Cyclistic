@@ -23,14 +23,14 @@ Cyclistic executive team
 
 ## Data source 
 
-Cyclistic’s historical trip data to analyze and identify trends link [https://divvy-tripdata.s3.amazonaws.com/index.html] 
+Cyclistic’s historical trip data to analyze and identify trends [click here] (https://divvy-tripdata.s3.amazonaws.com/index.html) 
 
-The data has been made available by Motivate International Inc. under this link [https://www.divvybikes.com/data-license-agreement]
+The data has been made available by Motivate International Inc. under this [license] (https://www.divvybikes.com/data-license-agreement)
 
 ### Summary
 
 Find my complete analysis on the case study with the insights and decisions crated using creative visualizations on this link[]
 
-[I'm an inline-style link](https://www.google.com)
+
 
 
